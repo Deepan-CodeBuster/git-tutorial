@@ -1,1 +1,19 @@
-Hello There this is a tutorial file.!!
+##Steps to work in github
+
+#Clone a file from github to vs code
+git clone "url"
+
+#Add a new file to the github
+1.To add a new file enter the the command "git add file_name"
+2.To commit that file enter the command "git commit -m "yor message"
+3.To pussh the file into github enter the command "git push origin main"
+
+#To delete a file from the github vis VS code 
+1.Enter the the command "git add file_name"
+2.To commit that file enter the command "git commit -m "yor message"
+3.To pussh the file into github enter the command "git push origin main"
+
+#To pull the modify file from the github
+git pull 
+
+
