@@ -1,6 +1,6 @@
 ##Steps to work in github
 
-#Clone a file from github to vs code
+#Clone a file from github to visual studio code
 git clone "url"
 
 #Add a new file to the github
